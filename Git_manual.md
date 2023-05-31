@@ -260,8 +260,8 @@ Markdown позволяет выровнять содержимое столбц
 
 Язык разметки Markdown имеет множество особенностей и функций, которым можно найти самые разные способы применения. С более подробной информацией вы можете ознакомиться по ссылкам:
 
-[![ссылке](link_button.png)](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+![ссылке](link_button5.png)[![ссылке](link_button.png)](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
 
- ![ссылке](click.png)[![ссылке](link_button2.png)](https://gist.github.com/timseriakov/3ca738c41e417fde5731e0a97e8c1356)
+ [![ссылке](link_button6.png)](https://learngitbranching.js.org/)![ссылке](click.png)[![ссылке](link_button2.png)](https://gist.github.com/timseriakov/3ca738c41e417fde5731e0a97e8c1356)
 
- [![ссылке](link_button3.png)](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B9-%D0%B8-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-readme-md-6cc09ef8277)
+ ![ссылке](link_button5.png)[![ссылке](link_button3.png)](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B9-%D0%B8-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-readme-md-6cc09ef8277)
